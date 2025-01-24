@@ -1,6 +1,7 @@
 Hello, Devs!!
 <p>Me chamo Cecilia Siqueira, estou iniciando os estudos na área de tecnologia.</p>
 
+-----------------------------------------------
 
 :computer: Atualmente estou aprendendo
 <div>
@@ -9,7 +10,7 @@ Hello, Devs!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="49" height="40" />
 </div>
 
-
+-----------------------------------------------
 
 📫 Como entrar em contato comigo
 
