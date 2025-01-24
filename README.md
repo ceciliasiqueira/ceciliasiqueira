@@ -29,4 +29,4 @@
 
 ---------------------------------------------
 
-! [Snake animation] (https://github.com/ceciliasiqueira//ceciliasiqueirablob/output/github-contribution-grid-snake.svg)
+! [Snake animation] (https://github.com/ceciliasiqueira/ceciliasiqueirablob/output/github-contribution-grid-snake.svg)
