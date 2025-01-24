@@ -1,14 +1,15 @@
-# Cecilia Siqueira
-## Hello, Devs!!
+Hello, Devs!!
+<p>Me chamo Cecilia Siqueira, estou iniciando os estudos na área de tecnologia.</p>
 
-🌱 Atualmente estou aprendendo
+
+:computer: Atualmente estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="49" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="49" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="49" height="40" />
 </div>
 
------------------------------------------------
+
 
 📫 Como entrar em contato comigo
 
@@ -29,4 +30,4 @@
 
 ---------------------------------------------
 
-! [Snake animation] (https://github.com/ceciliasiqueira/ceciliasiqueirablob/output/github-contribution-grid-snake.svg)
+! [Snake animation] (https://github.com/ceciliasiqueira/ceciliasiqueira/blob/output/github-contribution-grid-snake.svg)
